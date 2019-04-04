@@ -1,0 +1,392 @@
+@charset "utf-8";
+
+
+
+p{
+	font-family: Arial,  "Arial Narrow";
+	font-size: 12px;
+	color: #FFFFFF;
+	
+	/*establesco la fuente que se aplicara a lo largo de toda la pagina web, su tama;o y color*/
+	 
+}
+body{
+	background-color: black;
+}
+
+/*establesco el fondo del body */
+
+.contBanner{
+	background-color: black;
+	background-image: url("../images/hablemosdesexo.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	height:770px;
+	background-attachment: fixed;
+}
+
+/*establesco el fondo del banner, la imagen de fondo para que me calce y la combierto en un elmento movil a traves de background-attachment*/
+
+.banner {
+	background-color:black;
+	height:257px;	
+	display: table-cell;
+	vertical-align: middle;
+}
+ /*determino las caracteristicas de altura color y disposicion para mejorar el entendimiento */
+/*comienza el primer layout */
+.contPlacerSexual{ 
+	background-color: black;
+	height:600px;
+}
+/*determino fondo y altura del contenedor global*/
+.placerexual{
+	background-color: black;
+	height: 600px;
+}
+/*determino fondo y altura del contenedor especifico*/
+
+.feelgood {
+	background-image: url("../images/fellgood.2.0.jpg");
+	
+	height: 600px;
+background-repeat: no-repeat;
+	/*determino mi imagen de fondo, su altura y si se repite o no*/
+	
+}
+
+
+
+
+.placersexual2 {
+	background-color: white;
+	height: 600px;
+}
+/*determino fondo y altura de la clase*/
+
+.placersexual3 {
+	background-color: black;
+	height: 153px;
+	
+	
+}
+/*determino fondo y altura de la clase*/
+.espacio {
+	background-color: black;
+	height: 20px;
+}
+/*determino fondo y altura de la clase*/
+.tips {
+	background-color: black;
+	height: 305px;
+}
+/*determino fondo y altura de la clase*/
+.click {
+	background-color: black;
+	height: 102px;
+}
+/*determino fondo y altura de la clase*/
+.click1 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las variables para que mi clase se alinea al centro*/
+.uno{
+	background-color: black;
+	height: 305px;
+padding: 14px;
+padding-right: 14px;
+padding-left: 14px;
+padding-bottom: 14px;
+}
+/*determino las variables para que mi clase se alinea al centro y fondo de color para entender de mejor manera*/
+.dos{
+	background-color: black;
+	height: 305px;
+	padding: 14px;
+padding-right: 14px;
+padding-left: 14px;
+padding-bottom: 14px;
+}
+/*determino las variables para que mi clase se alinie al centro y fondo de color para entender de mejor manera*/
+.tres{
+	background-color: black;
+	height: 305px;
+	padding: 14px;
+padding-right: 14px;
+padding-left: 14px;
+padding-bottom: 14px;
+	
+}
+.cuatro{
+	background-color: black;
+	height: 305px;
+	padding: 14px;
+padding-right: 14px;
+padding-left: 14px;
+padding-bottom: 14px;
+}
+/*determino las variables para que mi clase se alinie al centro y fondo de color para entender de mejor manera*/
+.cinco{
+	background-color: black;
+	height: 305px;
+	padding: 14px;
+padding-right: 14px;
+padding-left: 14px;
+padding-bottom: 14px;
+}
+/*determino las variables para que mi clase se alinie al centro y fondo de color para entender de mejor manera*/
+.seis{
+	background-color: black;
+	height: 305px;
+	padding: 14px;
+padding-right: 14px;
+padding-left: 14px;
+padding-bottom: 14px;
+}
+/*determino las variables para que mi clase se alinie al centro y fondo de color para entender de mejor manera*/
+
+/*concluye segundo layout */
+.espacio{
+	clear: both;
+	
+}
+/*comienza tercer layout*/
+.contorgasmo{
+	height: 818px;
+	background-color: black;
+}
+/*determino fondo y altura del contenedor global*/
+.espacioorgasmo0{ 
+	height: 175px;
+	background-color: black;	
+}
+/*determino fondo y altura del contenedor especifico*/
+
+.bannerorgasmo{
+	height: 93px;
+	background-color: black;
+	
+	
+}
+/*determino fondo y altura del contenedor especifico*/
+.imgorgasmo{
+	
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las caracteristicas para que mi clase se alinee al centro */
+.espacioorgasmo1 {
+	height: 27px;
+	background-color:black;
+	
+}
+/*determino fondo y altura del contenedor especifico*/
+.queesorgasmo{
+	height: 93px;
+	background-color:black;
+	
+}
+.espacioorgasmo2{
+	height: 27px;
+	background-color:black;
+	
+}
+/*determino fondo y altura del contenedor especifico*/
+.hombremujer{
+	height: 276px;
+	background-color:black;
+}
+	/*determino fondo y altura del contenedor especifico*/
+.imagenquees {
+	background-color:black;
+}
+/*determino fondo contenedor especifico*/
+.imagenqueesorgasmo {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+	
+}
+/*determino las caracteristicas para que mi clase se alinee al centro */
+
+.textoh {
+	padding-top:14px;
+	
+}
+/*determino un padding-top para alinear mi texto */
+.textom {
+	padding-top: 14px;
+}
+/*determino un padding-top para alinear mi texto */
+.click2{
+	
+	height: 100px;
+}
+/*determino una altura para mi clase*/
+.click22 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las caracteristicas para que mi clase se alinee al centro */
+/*concluye tercer layout*/
+
+/*comienza cuarto layout */
+
+.contg{
+	height: 848px;
+	background-color: black;
+}
+/*determino fondo y altura del contenedor global*/
+.espaciog0
+{
+	height: 175px;
+	background-color: black;
+}
+/*determino fondo y altura del contenedor especifico*/
+.imgpuntog {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+padding-right: 24px;
+	
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+
+.imagenmasculino{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+	
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+
+.imagenfemenino{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+	
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+.espaciomf{
+	height: 28px;
+}
+/* determino la altura de mi fila*/
+.espaciog3{
+	height: 28px;
+	
+}
+/* determino la altura de mi fila*/
+.click33 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+	
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+/*concluye cuarto layout*/
+
+/*comienza quinto layout*/
+
+.consex {
+	hegiht: 790px;
+	background-color: black
+		
+}
+/*determino fondo y altura del contenedor global*/
+
+.espacioss {
+	height: 175px;
+	background-color: black;
+}
+/*determino fondo y altura del contenedor especifico*/
+.ssbanner {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+	/*determino las caracteristicas para que mi clase se alinie al centro*/
+}
+.espacioss1 {
+	height: 27px;
+	background-color:black;
+}
+/*determino fondo y altura del contenedor especifico*/
+
+.cya {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+	
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+.click44{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+
+/*concluye quintolayout*/
+
+/*comienza sexto layout*/
+.drogas{
+	hegiht: 790px;
+	background-color: black
+	
+	
+}
+/*determino fondo y altura del contenedor global*/
+.espaciod {
+	height: 175px;
+	background-color: black;
+	
+}
+/*determino fondo y altura del contenedor espesiico*/
+
+.imgsd {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+.espaciosd {
+	height: 27px;
+}
+/*determino las altura de un conteneor especifico*/
+.face {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+.mn {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+.click55{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+}
+/*determino las caracteristicas para que mi clase se alinie al centro*/
+/* Gracias */
